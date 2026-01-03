@@ -1,4 +1,4 @@
-# 🚀 Spring Boot GraphQL Demo - Gestion de Produits et Catégories
+# 🚀 Spring Boot GraphQL  - Gestion de Produits et Catégories
 
 Une application GraphQL moderne construite avec **Spring Boot 3.5.7** pour la gestion de produits et catégories avec des opérations CRUD complètes.
 
